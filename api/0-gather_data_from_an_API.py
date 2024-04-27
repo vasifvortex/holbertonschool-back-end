@@ -1,4 +1,3 @@
-git update-index --chmod=+x holbertonschool-back-end/api/0-gather_data_from_an_API.py
 #!/usr/bin/python3
 """Gather data from an API"""
 import json
